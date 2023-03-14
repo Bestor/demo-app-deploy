@@ -1,1 +1,3 @@
 image: ghcr.io/Bestor/demo-app:2771a28a81f35baa0d19082a0bac62ee8fabf90b
+
+env: stage
