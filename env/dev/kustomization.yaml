@@ -5,5 +5,7 @@ resources:
 - ../../base
 
 images:
+- name: ghcr.io/Bestor/demo-app
+  newTag: 2861b311a811a4b4b0eb3a8af3928a9b3cc7019d
 - name: ghcr.io/bestor/demo-app
   newTag: acd8f67
