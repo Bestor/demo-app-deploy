@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/bestor/demo-app
-  newTag: latest
+  newTag: acd8f67
